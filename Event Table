@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <!--This code creates a table for the future events the Massive Data Institute is holding in February
+  and March, broken down by the event type, date, and location.-->
+<head>
+  <title> Massive Data Institute </title>
+  <style>
+    body
+    {
+        background-color: rgb(219, 221, 221);
+    }
+    </style>
+    
+</body>
+</html>
+
+
+  <ul class="navigation">
+    <img src="https://www.appam.org/assets/1/15/cmyk_mccourt_logo_formal_horizontal.png?63136" height="150px;"></li>
+    
+    <style>
+        h1 {
+        color: rgb(4, 4, 5);
+        font-size: 35px;
+        font-family: 'Times New Roman', sans-serif;
+        }
+        </style>
+    <h1> <i>Massive Data Institute Events</i></h1>
+    </style>
+  <table>
+    <style>
+        table {
+            border: 3px solid black;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 3px solid black;
+            padding: 8px
+        }
+    </style>
+    </head>
+    <thead>
+      <tr>
+        <th>Event</th>
+        <th>Date & Time</th>
+        <th>Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>MDI Tea Time for Faculty</td>
+        <td>Feb 21 2025</td>
+        <td>Washintgon, DC</td>
+      </tr>
+      <tr>
+        <td>MDI Workshop with Rupayan Mallick</td>
+        <td>Feb 24 2025</td>
+        <td>White Gravenor 405</td>
+      </tr>
+      <tr>
+        <td>MDI Workshop with Rupayan Mallick</td>
+        <td>Feb 25 2025</td>
+        <td>Healy G-02</td>
+      </tr>
+      <tr>
+        <td>MDI Workshop: Interactive Multi-Participant</td>
+        <td>Mar 24 2025</td>
+        <td>White Gravenor 405</td>
+      </tr>
+      <tr>
+        <td>MDI Workshop: Interactive Multi-Participant</td>
+        <td>Mar 25 2025</td>
+        <td>Healy G-02</td>
+      </tr>
+      <tr>
+        <td>MDI Tea Time</td>
+        <td>Mar 28 2025</td>
+        <td>Healy G-02</td>
+      </tr>
+    </tbody>
+  </table>
+
+
+</body>
+</html>
