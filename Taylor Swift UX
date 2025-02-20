@@ -1,13 +1,17 @@
 <!--This code sample displays a website giving a brief history of Taylor Swift's discography. This website 
 specifically focuses on the user experience by formatting the albums into a list form and allowing the user
- to click on any album and jump directly to the paragraph. In addition, the video displays an error message
- if the video cannot load, which is the case with this video.-->
+ to click on any album and jump directly to the paragraph.-->
 <!DOCTYPE html>
 <html>
 
 <title>Taylor Swift</title>
 
 <body>
+  <img src="https://variety.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-28-at-12.40.18-PM.png?w=1000&h=667&crop=1"/>
+    
+  <br>
+  <br>
+
   <h1>Taylor Swift's Discography</h1>
   <nav>
     <ul>
@@ -22,7 +26,6 @@ specifically focuses on the user experience by formatting the albums into a list
       <li><a href="#evermore">Evermore</a></li>
       <li><a href="#midnights">Midnights</a></li>
       <li><a href="#torturedpoetsdepartment">Tortured Poets Department</a></li>
-      <li><a href="media">Media</a></li>
     </ul>
   </nav>
   <div id="taylorswift">
@@ -104,14 +107,6 @@ specifically focuses on the user experience by formatting the albums into a list
   </div>
   <br>
 
-  <div id="media">
-    <h2>Media</h2>
-    <p>The following include an image of Taylor, and music video for one of her most popular songs, "Love Story".
-    </p>
-  </div>
-
-    <img src="https://variety.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-28-at-12.40.18-PM.png?w=1000&h=667&crop=1"/>
-    <video src="https://www.youtube.com/watch?v=8xg3vE8Ie_E" height="300" width="400" controls>Video not supported</video>
   </div>
 </body>
 
